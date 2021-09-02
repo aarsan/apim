@@ -1,0 +1,32 @@
+1. Blog in tech connumity.
+2. APIM Office Hours
+3. Become an API SME
+4. Know the product team.
+5. Twitter?
+6. aka.ms/apimlove
+
+
+
+
+Resources
+----------
+
+
+
+SMEs
+-----
+
+
+
+Azure Architecture Center
+--------------------------
+Section: Best Practices
+
+Example Scenario:
+- Section "Insurance" is missing
+- Fictitous Insurance Company's claims system and reseller integration
+
+- Enterprise uses APIM for LOB app integration and some external.
+
+
+- SQL Managed Instance geo Regional...
