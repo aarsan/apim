@@ -1,4 +1,4 @@
-# Demo Environment or Workflow Diagrams for API Management Use-cases in Financial Services 
+# Demo Environment or Workflow Diagrams for API Management Use-cases in Financial Services
 
 ## Demo Features
 - Scaling demo 
