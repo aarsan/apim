@@ -1,7 +1,12 @@
 # Demo Environment or Workflow Diagrams for API Management Use-cases in Financial Services 
 
-## Demo Features
-- Scaling demo 
+## Workflow Demos
+- Autoscaling based on load
+- Throttling Demo
+- Product Management Demo
+
+
+
 - 20 backend APIs
 
 
