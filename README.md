@@ -3,7 +3,6 @@
 
 This API Management environment shows how a real-world insurance company can transform their business by creating an API economy that bolsters innovation and allows Big Insurance to enter new markets.
 
-
 ## Workflow Demos
 
 - Autoscaling based on load
@@ -33,12 +32,23 @@ This API Management environment shows how a real-world insurance company can tra
 
 ### Roles
 
-1. Back-end API owner
-2. Developer consuming APIs via APIM.
+1. Back-end API owners
+    - lob product owners
+    - Information Technology Department
+    - SaaS product managers (LinkedIn, Salesforce, ServiceNow, etc.)
+2. Consumers of back-end APIs
+    - Other internal LOBs (IT may offer an API that provisions VMs that Risk consumes)
+    - External Partners
+    - Customers
 3. Platform Operators
+    - Azure Admin
+    - APIM Admin
 4. Cost Management
+    - Platform Cost
+    - Bill back to product owners
 
-Digital Transformation for business growth, not for cool tech. 
+Digital Transformation for business growth, not for cool tech.
+
 - customers to innovate by creating an ecosystem of APIs available to the organization
 
 In this example scenario, we have a fictitious insurance company, Acme Insurance Company, that provides auto and pet insurance. They have a reseller program which allows anyone to sell their insurance for them and make a commission. To the resellers, Acme provides a website where they can log into to purchase insurance and manage their claims. This works well for smaller resellers but many of them already have a system in place and having to disrupt their flow and use another system to make claims will not work for them. Acme provides an API that can be used for integrating with existing claims processing systems.
@@ -46,7 +56,6 @@ In this example scenario, we have a fictitious insurance company, Acme Insurance
 ## Use Case
 
 Acme Insurance signs up new resellers, sells policies, and  processes claims everyday. The resellers are located all over the United States. Both the website as well as the API need to be up and running 24/7/365. 
-
 
 - [Development team authors APIs for internal LOB applications to integrate with.](https://github.com/aarsan/apim/tree/master/onprem-legacy-api)
 
